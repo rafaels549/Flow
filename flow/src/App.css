@@ -1,0 +1,18 @@
+body{
+  margin:0;
+}
+img{
+  padding: 10px;
+  width: 200px;
+}
+header
+  { background-color: rgb(84, 84, 168);
+   
+  }
+  .container
+  {
+    border: 3px solid grey;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
